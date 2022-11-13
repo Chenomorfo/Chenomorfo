@@ -17,7 +17,8 @@
    - Videogame's Creation
    - Web development
    - Waiting for new one...
-- 📫 How to reach me ... 
+- 📫 How to reach me 
+   - In waiting for a new way
 
 <!---
 Chenomorfo/Chenomorfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
