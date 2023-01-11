@@ -1,24 +1,25 @@
-- 👋 Hi, I’m @Chenomorfo, a simple dude who likes to play any type of videogames (except visual novels), RPG, sports, know new music and cultures, and to talk with new people.
-- 👀 I’m interested in:
-  - Learn new code languages and technologies
-  - Know new interesting people (preference in who have nothing common with me)
-  - Practice many sports
-  - Waiting for new one...
- 
-- 🌱 I’m currently learning 
-   - English and Portuguese
-   - Volleyball
-   - Carpentry
-   - Repair of electronics
-   - Playing the stylophone
-   - Waiting for new one...
-   
-- 💞️ I’m looking to collaborate on 
-   - Videogame's Creation
-   - Web development
-   - Waiting for new one...
-- 📫 How to reach me 
-   - In waiting for a new way
+# Hello Everyone
+I am a *WEB_DEV* student, trying to learn all about **front/back - end** and **Game development**.
+
+---
+## A json about myself
+
+    {
+      "Name"       :   "Angel Humberto Hernandez Villanueva",
+      "Age"        :   20,
+      "NickName"   :   "Chenomorfo",
+      "I_Live_In"  :   "Mexico",
+      "SpeakLang"  :   ["Spanish","English"],
+      "Hobbies"    :   ["VideoGames", "Basketball", "Baseball", "Chess", "TableGames", "Electronics", 
+                        "Computers", "Living in Linux"],
+      "CodeLangs"  :   ["Java", "C#", "JavaScript", "C++"],
+      "DB_Used"    :   ["MongoDB", "MariaDB", "Microsoft SQL Server"],
+      "Tech_Used"  :   ["Tailwind", "SASS", "TypeScript", "BootStrap", "HandleBars", "Express", 
+                        "PassPort", "Angular", "React"]
+      "FavSeries"  :   ["Pokemon", "DragonBall Z", "Adventure Time", "Regular Show"],
+      "FavGames"   :   ["Dark Souls", "Jak and Daxter", "Oxygen Not Included", "Pokemon: Emerald"],
+      "CodinSince" :   2018
+    }
 
 <!---
 Chenomorfo/Chenomorfo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
